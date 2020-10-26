@@ -411,6 +411,10 @@
     {
       "packageName": "myconstruct",
       "projectFolder": "module/myconstruct"
+    },
+    {
+      "packageName": "myapp",
+      "projectFolder": "app/myapp"
     }
   ]
 }
